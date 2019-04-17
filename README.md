@@ -2,6 +2,8 @@
 <b>Short Description:</b>
 This is an android application that predicts cost of transportation in Mumbai City (India) by all modes of transit namely Personal vehicle, Bus, Train, Auto and Taxi.
 
+<b> <a href="https://www.researchgate.net/publication/319873748_IJARCCE_Cost_Based_Navigation"> Published a paper on this app. Do check it out. </a></b> 
+
 <b>Detailed Description:</b>
 Cost Based Navigation is an android application that provides detailed information about geographical regions and sites. 
 The application not only provides the user time and distance required to travel from one place to another but it also provides the user 
