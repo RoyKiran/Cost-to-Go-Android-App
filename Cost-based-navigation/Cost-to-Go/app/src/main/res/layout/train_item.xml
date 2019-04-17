@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:divider="@drawable/vertical_divider"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:showDividers="middle">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="3dp">
+
+        <TextView
+            android:id="@+id/station_time_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.00AM CHG F"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/source_destination_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Virar - Churchgate" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textStyle="bold"
+        android:id="@+id/platform_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="PF 2" />
+</LinearLayout>

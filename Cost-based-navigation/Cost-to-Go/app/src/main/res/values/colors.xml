@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#388E3C</color>      <!--shutter highlight-->
+    <color name="colorPrimary">#4CAF50</color>          <!--actionbar color-->
+
+    <color name="PrimarytextColor">#FFFFFF</color>      <!--icon and text on actionbar-->
+    <color name="lightPrimaryColor">#C8E6C9</color>     <!--subtext on actionbar-->
+
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#388E3C</color>
+
+    <color name="colorAccent">#8BC34A</color>           <!--FAB color-->
+
+    <color name="primaryText">#212121</color>           <!--text on activity pg color-->
+    <color name="secondaryText">#727272</color>         <!--subtext on activity pg color-->
+
+    <color name="dividerColor">#B6B6B6</color>
+
+</resources>
