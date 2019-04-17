@@ -1,5 +1,5 @@
 # Cost-to-Go-Android-App
-<b>Short Description:<b>
+<b>Short Description:</b>
 This is an android application that predicts cost of transportation in Mumbai City (India) by all modes of transit namely Personal vehicle, Bus, Train, Auto and Taxi.
 
 <b>Detailed Description:</b>
@@ -14,3 +14,5 @@ specific location to another. Cost Based Navigation not only lets you gets drivi
 public transit directions. If you select public transit,it gives you walking directions to and from the bus or train stops required to 
 get to your destination.
 
+<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/decide_route.png"/> <br/> 
+<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/private_vehicle_setup.png"/>
