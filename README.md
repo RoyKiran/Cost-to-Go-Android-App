@@ -14,5 +14,5 @@ specific location to another. Cost Based Navigation not only lets you gets drivi
 public transit directions. If you select public transit,it gives you walking directions to and from the bus or train stops required to 
 get to your destination.
 
-<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/decide_route.png"/> <br/> 
-<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/private_vehicle_setup.png"/>
+<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/decide_route.PNG"/> <br/> 
+<img src="https://github.com/RoyKiran/Cost-to-Go-Android-App/blob/master/Cost-based-navigation/Cost-to-Go/app/src/main/res/drawable/private_vehicle_setup.PNG"/>
